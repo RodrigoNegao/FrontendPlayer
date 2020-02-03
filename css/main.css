@@ -1,0 +1,213 @@
+*{
+  font-family: 'Istok Web', sans-serif;
+}
+
+.white1{
+  background-color: white; 
+}
+
+.white1 a{
+  text-decoration: none;
+} 
+
+.bold1{
+  font-weight: bold;
+}
+
+.width100 {
+  width: 100%;
+}
+.center1{
+  padding-left: 90px;
+}
+.right1{
+  float: right;
+  padding-right: 23px;
+}
+
+.noneDecorotion {
+  text-decoration: none;
+}
+
+.Gradient {
+  background: rgb(0,255,248);
+  background: linear-gradient(180deg, rgba(0,255,248,1) 50%, rgba(0,0,0,1) 100%);
+}
+
+ /* The sidebar menu */
+.sidebar {
+    height: 100%; /* 100% Full-height */
+    width: 90px; /* 0 width - change this with JavaScript */
+    position: fixed;  /*  Stay in place */
+    z-index: 1; /* Stay on top */
+    top: 0;
+    left: 0;
+    background-color: white; 
+     /* transparent */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 30px; /*Place content 60px from the top */
+    transition: all 0.5s ease-out; /* 0.5 second transition effect to slide in the sidebar */
+    /* display: flex; */
+    align-items: center;
+}
+  
+/* The sidebar links */
+/* padding top | right | bottom | left */
+.sidebar  a {
+    padding: 10px 10px 10px 25px;
+    text-decoration: none;
+    font-size: 15px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+    margin: 0px;
+    /* transform: translateX(-100px); */
+}
+
+  /* When you mouse over the navigation links, change their color */
+.sidebar a:hover {
+    color: black;
+}
+
+/* .SVGMenu a {
+  background-color: white;  
+} */
+
+.sidebar .SVGMenu a:hover {
+  /* background: linear-gradient(180deg, rgba(255,51,98,1) 0%, rgba(247,41,126,1) 40%, rgba(239,30,156,1) 100%); */
+  background-color: transparent;
+  /* float: right;
+  transition: all 1s ease-out; */
+  /* fill: blue; */
+}
+
+#LinkSideBar img {
+  padding: 0;
+}
+
+/* Trocar SVG de COR */
+/* .sidebar img:hover {
+  fill: black;
+} */
+
+#LinkSideBar {
+  padding-top: 107px;
+  width: 224px;
+  transform: translateX(-120px);
+}
+
+#logo {
+  padding-left: 9px;
+  padding-top: 37px;
+  transform: scale(0.4);
+  /* transform: translateX(-100px); */
+  /* padding: 20px; */
+}
+
+
+.Titulo{
+
+  padding-top: 98px;
+  padding-bottom: 78px;
+  font-size: 35px;
+
+}
+
+.SemiTitulo{
+  color: #8E8E8E;
+  padding-bottom: 143px;
+  font-size: 25px;
+}
+
+.table1{
+  padding-top: 39px;
+  padding-bottom: 44px;
+}
+.no-border{
+  border: 0 !important;
+}
+
+
+/* #logo a:hover{
+  transform: scale(1.6);
+} */
+
+ 
+  /* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+#main {
+    transition: margin-left .5s; /* If you want a transition effect */
+    padding: 20px;
+    padding-left: 80px;
+}
+  
+  /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+    .sidebar {padding-top: 15px;}
+    .sidebar a {font-size: 18px;}
+} 
+
+.GreyAlert{
+  color: #8E8E8E;	  
+}
+
+.GreyAlert2{
+  color: #8E8E8E;	
+  font-size: 15px;
+}
+
+.Recentes {
+  font-size: 25px;
+  padding: 0px;
+  margin-top: -12px;
+  margin-bottom: 0px;
+}
+
+.CampanhasDiv {
+  padding: 37px 15px 0 37px;
+}
+
+/* padding top | right | bottom | left */
+.CampanhasDiv2 {
+  padding: 10px 15px 0px 37px;
+} 
+
+.CampanhasDiv3{
+  padding: 0px 15px 0px 37px;
+  margin-bottom: 15px;
+  width: 90%;
+} 
+
+.dots1 {
+  padding: 25px ;
+  width: 90%;
+  display: flex;
+  justify-content: center; 
+}
+
+
+.dot {
+  height: 10px;
+  width: 10px;
+  background-color: #8E8E8E;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 7px;
+  margin-right: 7px;
+}
+
+a:hover .dot {
+  background-color:  rgb(0,255,248); !important;
+}
+
+/* .perfil {
+  padding-top: ;
+} */
+/* .border-color1{
+  border-left: 6px solid;
+  border-left-color:  rgb(255,51,98)
+} */
+/* 
+.footer1 {
+ 
+} */
+
