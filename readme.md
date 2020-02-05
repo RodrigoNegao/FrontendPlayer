@@ -1,5 +1,5 @@
 # FrontEnd Projeto 
-- Projeto feito em Html, CSS, JavaScript , BootStrap e JQuery.
+- Projeto com Animações feito em Html, CSS, JavaScript , BootStrap e JQuery.
 - FrontEnd testado em Chrome, Firefox, Microsoft Edge e IE.
 
 ## Imagens

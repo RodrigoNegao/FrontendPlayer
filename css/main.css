@@ -73,9 +73,10 @@
   background-color: white;  
 } */
 
-.sidebar .SVGMenu a:hover {
+svg .sidebar .SVGMenu a:hover {
+  fill: black
   /* background: linear-gradient(180deg, rgba(255,51,98,1) 0%, rgba(247,41,126,1) 40%, rgba(239,30,156,1) 100%); */
-  background-color: transparent;
+  /* background-color: transparent; */
   /* float: right;
   transition: all 1s ease-out; */
   /* fill: blue; */
