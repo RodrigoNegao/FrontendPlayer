@@ -10,3 +10,5 @@
 
 [Imagem Modelo](https://www.pexels.com/photo/led-lighted-bowling-arcade-machine-1293260/)
 
+## TODO
+- Animações para os SVG.
