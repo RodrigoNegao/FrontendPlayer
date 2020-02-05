@@ -3,7 +3,8 @@
 - FrontEnd testado em Chrome, Firefox, Microsoft Edge e IE.
 
 ## [CodePen Dashboard Project](https://codepen.io/rodrigonegao/full/WNvNQBy)
-- CSS bug link (text-decoration: none;)
+- CSS bug link (text-decoration: none;);
+- Talvez funcione no Html ou JavaScript.
 
 ## Imagens
 
