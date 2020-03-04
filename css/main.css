@@ -197,7 +197,7 @@ svg .sidebar .SVGMenu a:hover {
 }
 
 a:hover .dot {
-  background-color:  rgb(0,255,248); !important;
+   background-color:  rgb(0,255,248); /* !important; */
 }
 
 /* .perfil {
