@@ -2,8 +2,11 @@
 - Projeto com Animações feito em Html, CSS, JavaScript , BootStrap e JQuery.
 - FrontEnd testado em Chrome, Firefox, Microsoft Edge e IE.
 
-## [CodePen Dashboard Project](https://codepen.io/rodrigonegao/full/WNvNQBy)
-- CSS bug link (text-decoration: none;).
+## [GitHub Dashboard Project Link](https://rodrigonegao.github.io/FrontendPlayer/)
+- OK .
+
+## [CodePen Dashboard Project Link](https://codepen.io/rodrigonegao/full/WNvNQBy)
+- CSS bug (text-decoration: none;).
 
 ## Imagens
 
